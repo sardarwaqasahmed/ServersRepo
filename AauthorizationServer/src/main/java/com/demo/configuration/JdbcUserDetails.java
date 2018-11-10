@@ -1,7 +1,5 @@
-package com.aak.configuration;
+package com.demo.configuration;
 
-import com.aak.domain.Credentials;
-import com.aak.repository.CredentialRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -9,6 +7,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.factory.PasswordEncoderFactories;
 import org.springframework.security.crypto.password.PasswordEncoder;
+
+import com.demo.domain.Credentials;
+import com.demo.repository.CredentialRepository;
 
 /**
  * Created by ahmed on 21.5.18.

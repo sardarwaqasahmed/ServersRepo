@@ -1,4 +1,4 @@
-package com.aak.configuration;
+package com.demo.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;

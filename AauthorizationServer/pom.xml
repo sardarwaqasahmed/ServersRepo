@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.aak</groupId>
-	<artifactId>authorization_server</artifactId>
+	<groupId>com.demo</groupId>
+	<artifactId>AuthorizationServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>authorization_server</name>
+	<name>AuthorizationServer</name>
 	<description>oauth2 authorzation sever</description>
 
 	<parent>

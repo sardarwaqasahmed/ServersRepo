@@ -1,4 +1,4 @@
-package com.aak.api;
+package com.demo.api;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
