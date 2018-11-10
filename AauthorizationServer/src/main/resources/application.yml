@@ -7,7 +7,7 @@ spring:
         driver-class-name: com.mysql.jdbc.Driver
         jdbc-url: jdbc:mysql://localhost/oauth2
         username: root
-        password:
+        password: root
         initialization-mode: always
     jpa:
       hibernate:
@@ -15,6 +15,4 @@ spring:
 # --- server
 server:
   port: 8081
-
-
 
